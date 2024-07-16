@@ -1,1 +1,26 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* Color Palette 1 */
+/* :root {
+  --mindaro: #d9ed92ff;
+  --emerald: #76c893ff;
+  --verdigris: #34a0a4ff;
+  --cerulean: #1a759fff;
+  --light-green: #99d98cff;
+  --lapis-lazuli: #1e6091ff;
+  --indigo-dye: #184e77ff;
+  --bondi-blue: #168aadff;
+  --light-green-2: #b5e48cff;
+  --keppel: #52b69aff;
+} */
+
+/* Color Palette 2 */
+:root {
+    --light-blue: #8ecae6ff;
+    --dark-green: #219ebcff;
+    --darker-blue: #023047ff;
+    --yellow: #ffb703ff;
+    --orange: #fb8500ff;
+    --coral: #ff6663ff;
+    --violet: #cbb3bfff;
+}
